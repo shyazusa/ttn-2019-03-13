@@ -1,7 +1,7 @@
 {
   "name": "ttn-2019-03-13",
   "version": "0.1.0",
-  "homepage": "https://shyazusa.github.io/ttn-2019-03-13/",
+  "homepage": "https://shyazusa.github.io/ttn-2019-03-13",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
