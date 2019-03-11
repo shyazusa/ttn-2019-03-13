@@ -8,7 +8,6 @@ import {
   Heading,
   ListItem,
   List,
-  Link,
   Slide,
   Text,
   GoToAction,
