@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
+    "react-compare-image": "^1.1.0",
     "react-dom": "^16.8.4",
     "spectacle-scripts": "2.3.0"
   },
