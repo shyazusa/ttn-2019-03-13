@@ -87,7 +87,7 @@ export default class Presentation extends React.Component {
                 <ReactCompareImage
                   leftImage="./img/1.jpg"
                   rightImage="./img/2.jpg"
-                  sliderLineColor="red"
+                  sliderLineColor="#7BDCD7"
                 />
               </div>
             )}
@@ -104,7 +104,7 @@ export default class Presentation extends React.Component {
                 <ReactCompareImage
                   leftImage="./img/3.jpg"
                   rightImage="./img/4.jpg"
-                  sliderLineColor="red"
+                  sliderLineColor="#7BDCD7"
                 />
               </div>
             )}
@@ -121,7 +121,7 @@ export default class Presentation extends React.Component {
                 <ReactCompareImage
                   leftImage="./img/5.jpg"
                   rightImage="./img/6.jpg"
-                  sliderLineColor="red"
+                  sliderLineColor="#7BDCD7"
                 />
               </div>
             )}
